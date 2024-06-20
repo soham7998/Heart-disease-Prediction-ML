@@ -2,7 +2,7 @@
 
 **Through data loading, exploration, visualization, and the application of a logistic regression model to predict heart disease. Each section helps in understanding the data better and evaluating the performance of the predictive model.**
 
-## Splitting Data > Training the model > Evaluating the model > Model Performance > Accuracy Results.
+**Splitting Data > Training the model > Evaluating the model > Model Performance > Accuracy Results.**
 
 ## a step-by-step guide to:
 
